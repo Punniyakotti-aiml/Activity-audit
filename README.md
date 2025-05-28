@@ -1,5 +1,5 @@
-# Exp Auditing Cloud Activity Using AWS CloudTrail
-Name:Punniyakotti.M
+# EX - 4 Auditing Cloud Activity Using AWS CloudTrail
+Name:Punniyakotti M
 
 Reg no:212224240122
 ## Aim
@@ -37,8 +37,6 @@ Filter events by:
 
 Use the Download CSV option to export logs
 Analyze logs in Excel/Sheets for reporting
-
- 
 
 ## Output:
 
